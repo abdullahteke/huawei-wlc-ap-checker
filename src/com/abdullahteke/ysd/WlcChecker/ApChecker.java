@@ -37,6 +37,7 @@ public class ApChecker {
 			connectToWLC(wlcIP);
 			ifSwName = getConnectedInterfaceAndSwitch(apName);
 			System.err.println(ifSwName);
+			System.out.println("ok..");
 
 		}
 
