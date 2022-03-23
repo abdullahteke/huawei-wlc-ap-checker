@@ -1,2 +1,2 @@
-# ApCheckerFromHuaweiWlc
- 
+# ApCheckerFromHuaweiWLC
+Get swithc device and connected AP list from Huawei WLC
