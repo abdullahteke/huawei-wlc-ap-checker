@@ -1,4 +1,4 @@
-package com.abdullahteke.ysd.WlcChecker;
+package com.abdullahteke.wlcapchecker;
 
 import java.io.IOException;
 import java.util.Properties;
@@ -16,13 +16,13 @@ import expectj.Spawn;
 
 /*
  * */
-public class ApChecker {
+public class HuaweiWlcApChecker {
 
 	static Channel channel = null;
 	static JSch jSch = null;
 	static Session session = null;
 
-	public ApChecker(String wlcIP) {
+	public HuaweiWlcApChecker(String wlcIP) {
 	}
 
 	public static void main(String[] args) throws JSchException {
